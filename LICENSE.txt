@@ -1,0 +1,93 @@
+EveryVox Live — End User License Agreement
+Version 1.0 — June 2026
+
+This End User License Agreement ("Agreement") is a legal agreement between you
+(an individual or a single organisation, "You") and the Parish of Brentford
+("Licensor", "we", "us") for the EveryVox Live software, including its
+executables, installers, bundled components, and accompanying documentation (the
+"Software").
+
+By downloading, installing, or using the Software, You agree to be bound by this
+Agreement. If You do not agree, do not download, install, or use the Software.
+
+
+1. LICENCE GRANT
+   Subject to Your compliance with this Agreement, Licensor grants You a
+   personal, non-exclusive, non-transferable, royalty-free, revocable licence to
+   download, install, and use the Software, as-is, on devices You own or control,
+   for the purpose of producing and delivering live translation. No fee is
+   charged for this licence.
+
+2. THIRD-PARTY SERVICES AND YOUR CREDENTIALS
+   The Software is "bring your own keys": it connects to third-party services
+   (including, without limitation, speech-to-text and translation providers) that
+   You must configure with Your own account credentials. You are solely
+   responsible for obtaining those credentials, for all usage and charges
+   incurred under them, and for complying with each provider's terms of service
+   and applicable data-protection law. Licensor is not a party to, and is not
+   responsible for, Your relationship with any such provider.
+
+3. RESTRICTIONS
+   Except to the extent this Agreement expressly permits, or applicable law
+   prohibits the restriction, You must NOT:
+     (a) redistribute, publish, sell, rent, lease, lend, sublicense, host as a
+         service, or otherwise make the Software available to any third party;
+     (b) modify, adapt, translate, or create derivative works of the Software;
+     (c) reverse-engineer, decompile, or disassemble the Software, or attempt to
+         derive its source code, except, and only to the extent, that applicable
+         law expressly permits despite this limitation;
+     (d) remove, alter, or obscure any copyright, trademark, or other proprietary
+         notices; or
+     (e) use the Software in any unlawful manner or to infringe the rights of
+         others.
+
+4. OWNERSHIP
+   The Software is licensed, not sold. Licensor and its licensors retain all
+   right, title, and interest in and to the Software, including all intellectual
+   property rights. All rights not expressly granted to You are reserved.
+
+5. TRADEMARKS
+   "EveryVox Live" and any associated names, logos, and marks are trademarks of
+   the Parish of Brentford. This Agreement grants You no right to use those
+   marks, including to name, brand, or promote any product, distribution, or
+   service.
+
+6. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+   KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WITHOUT LIMITATION THE
+   IMPLIED WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A
+   PARTICULAR PURPOSE, ACCURACY, AND NON-INFRINGEMENT. LICENSOR DOES NOT WARRANT
+   THAT THE SOFTWARE WILL BE UNINTERRUPTED, ERROR-FREE, OR THAT ANY TRANSLATION
+   OR CAPTION IT PRODUCES WILL BE ACCURATE OR COMPLETE.
+
+7. LIMITATION OF LIABILITY
+   TO THE FULLEST EXTENT PERMITTED BY LAW, LICENSOR WILL NOT BE LIABLE FOR ANY
+   INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, OR FOR ANY
+   LOSS OF PROFITS, REVENUE, DATA, OR GOODWILL, ARISING OUT OF OR RELATING TO THE
+   SOFTWARE OR THIS AGREEMENT, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
+   DAMAGES. THIS INCLUDES, WITHOUT LIMITATION, ANY CHARGES INCURRED WITH
+   THIRD-PARTY SERVICE PROVIDERS (SEE SECTION 2). NOTHING IN THIS AGREEMENT
+   EXCLUDES OR LIMITS LIABILITY THAT CANNOT LAWFULLY BE EXCLUDED OR LIMITED,
+   INCLUDING LIABILITY FOR DEATH OR PERSONAL INJURY CAUSED BY NEGLIGENCE OR FOR
+   FRAUD.
+
+8. TERMINATION
+   This Agreement and the licence it grants terminate automatically if You breach
+   any of its terms. On termination You must stop using the Software and delete
+   all copies in Your possession or control. Sections 2, 4, 5, 6, 7, 9, and 10
+   survive termination.
+
+9. GOVERNING LAW
+   This Agreement is governed by the laws of England and Wales, and You and
+   Licensor submit to the exclusive jurisdiction of the courts of England and
+   Wales, without prejudice to any mandatory consumer-protection rights You may
+   have in Your country of residence.
+
+10. ENTIRE AGREEMENT
+   This Agreement is the entire agreement between You and Licensor regarding the
+   Software and supersedes any prior understanding. If any provision is held
+   unenforceable, the remaining provisions remain in full force. Licensor's
+   failure to enforce a provision is not a waiver of it.
+
+Contact: the Parish of Brentford.
+Copyright © 2026 the Parish of Brentford. All rights reserved.
