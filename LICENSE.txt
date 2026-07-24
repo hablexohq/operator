@@ -1,8 +1,10 @@
 Hablexo — End User License Agreement
-Version 1.1 — June 2026
+Version 1.2 — 24 July 2026
 
 This End User License Agreement ("Agreement") is a legal agreement between you
-(an individual or a single organisation, "You") and Joel Guinness trading as Hablexo
+(an individual or a single organisation, "You") and Hablexo Ltd, a company
+registered in England & Wales (company no. 17354416), registered office
+167-169 Great Portland Street, 5th Floor, London W1W 5PF
 ("Licensor", "we", "us") for the Hablexo software, including its
 executables, installers, bundled components, and accompanying documentation (the
 "Software").
@@ -69,7 +71,7 @@ Agreement. If You do not agree, do not download, install, or use the Software.
 
 5. TRADEMARKS
    "Hablexo" and any associated names, logos, and marks are trademarks of
-   Joel Guinness trading as Hablexo. This Agreement grants You no right to use those
+   Hablexo Ltd. This Agreement grants You no right to use those
    marks, including to name, brand, or promote any product, distribution, or
    service.
 
@@ -110,5 +112,5 @@ Agreement. If You do not agree, do not download, install, or use the Software.
    unenforceable, the remaining provisions remain in full force. Licensor's
    failure to enforce a provision is not a waiver of it.
 
-Contact: Joel Guinness (trading as Hablexo) — joelgguinness@gmail.com
-Copyright © 2026 Joel Guinness (trading as Hablexo). All rights reserved.
+Contact: Hablexo Ltd — hello@hablexo.com
+Copyright © 2026 Hablexo Ltd. All rights reserved.
