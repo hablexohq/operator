@@ -1,15 +1,18 @@
 Hablexo — End-User Licence Agreement
-v1.1-2026-07-26
+v1.2-2026-07-26
 
 Generated from the canonical web copy at
 https://translate.hablexo.com/legal/eula.html — do not edit by hand (run
 web/legal/gen-license.mjs).
 
-Version 1.1 — 26 July 2026. This End-User Licence Agreement ("EULA") is a
+Version 1.2 — 26 July 2026. This End-User Licence Agreement ("EULA") is a
 contract between Hablexo Ltd, a company registered in England & Wales (company
 no. 17354416), registered office 167-169 Great Portland Street, 5th Floor,
-London W1W 5PF ("Hablexo", "we", "us"), and the person or organisation that
-installs or uses the Software ("you"). Contact: hello@hablexo.com.
+London W1W 5PF ("Hablexo", "we", "us"), and the business or organisational
+Customer identified under the Terms ("Customer", "you"). An individual who
+installs or uses the Software for the Customer does so as its authorised user
+and does not become the Customer merely by using the Software. Contact:
+hello@hablexo.com.
 
 This EULA governs the operator applications — the Hablexo desktop operator app
 (Windows, macOS, and Linux) and the Hablexo mobile operator app (iOS and
@@ -21,23 +24,25 @@ processing of event content and personal data is governed by the Data
 Processing Addendum (https://translate.hablexo.com/legal/dpa.html) (the
 "DPA"). By installing or using the Software you accept this EULA. If these
 terms and the Terms conflict in relation to the service, the Terms prevail;
-the DPA prevails on data-protection matters. The Software is licensed for use
-by organisations and individuals acting in the course of business (B2B); it is
-not aimed at consumers.
+the DPA prevails on data-protection matters. The Software is licensed only
+under an eligible business or organisational account. It must not be installed
+or used wholly or mainly for personal, family, or household purposes. The
+Customer eligibility and authority requirements in the Terms apply to this
+EULA.
 
 1. LICENCE
 
 Subject to your compliance with this EULA and the Terms, Hablexo grants you a
 limited, personal, non-exclusive, non-transferable, non-sublicensable,
 revocable licence to install and run the Software on devices you own or
-control, and to use it solely to operate your own events through the Hablexo
-service for your internal business purposes. The Software is licensed, not
-sold. Hablexo and its licensors retain all right, title, and interest in the
-Software, including all intellectual property rights; you receive only the
-rights expressly granted here. "Hablexo" and its associated names, logos, and
-marks are trademarks of Hablexo Ltd; this EULA grants you no right to use
-them, including to name, brand, or promote any product, distribution, or
-service.
+control, and to use it solely to operate events by or for the Customer through
+the Hablexo service for permitted professional or organisational purposes. The
+Software is licensed, not sold. Hablexo and its licensors retain all right,
+title, and interest in the Software, including all intellectual property
+rights; you receive only the rights expressly granted here. "Hablexo" and its
+associated names, logos, and marks are trademarks of Hablexo Ltd; this EULA
+grants you no right to use them, including to name, brand, or promote any
+product, distribution, or service.
 
 2. ACCOUNT REQUIRED TO PUBLISH
 
@@ -46,7 +51,8 @@ Operating a live event requires a signed-in Hablexo account credential
 operator does not publish, and usage attributes to the account that is signed
 in. You are responsible for your account and credentials as set out in the
 Terms, and for the acts of anyone you allow to use the Software under your
-account.
+account. Anyone who signs in for an organisation confirms that they are
+authorised by that Customer.
 
 3. WHAT YOU MAY NOT DO
 
@@ -93,8 +99,8 @@ holds those credentials only in your device's operating-system secret store,
 on your device; Hablexo never receives or holds them. You are solely
 responsible for the security, management, and cost of your own provider
 accounts, and for compliance with those providers' terms. In that arrangement
-your providers are your processors, not Hablexo's sub-processors, as described
-in the DPA.
+your providers are your processors or sub-processors, as applicable, not
+Hablexo's sub-processors, as described in the DPA.
 
 6. FILES THE SOFTWARE STORES ON YOUR DEVICE
 
@@ -102,12 +108,15 @@ The Software writes certain files to your own device, not to Hablexo's servers
 — including its configuration, the secret store above, chat history, a
 diagnostics log, unsent problem reports, and, only if you switch them on (both
 are off by default), audio recordings and transcripts. Some of these can
-contain other people's personal data, and you are the controller of them. What
-is stored, how long it is kept, and how to delete it are set out in the
-Privacy Notice (https://translate.hablexo.com/legal/privacy.html) and in
-section 10 of the DPA (https://translate.hablexo.com/legal/dpa.html); this
-EULA does not change those terms. You are responsible for informing your
-attendees and for having a lawful basis for the content you capture.
+contain other people's personal data. The Customer is the controller where it
+determines why and how the event is operated, or a processor where it operates
+for a client controller. What is stored, how long it is kept, and how to
+delete it are set out in the Privacy Notice
+(https://translate.hablexo.com/legal/privacy.html) and in section 10 of the
+DPA (https://translate.hablexo.com/legal/dpa.html); this EULA does not change
+those terms. The Customer is responsible for ensuring that the relevant
+controller informs attendees, has a lawful basis, and authorises the content
+captured.
 
 7. THIRD-PARTY AND OPEN-SOURCE COMPONENTS
 
