@@ -1,11 +1,11 @@
 Hablexo — End-User Licence Agreement
-v1.2-2026-07-26
+v1.4-2026-08-10
 
 Generated from the canonical web copy at
 https://translate.hablexo.com/legal/eula.html — do not edit by hand (run
 web/legal/gen-license.mjs).
 
-Version 1.2 — 26 July 2026. This End-User Licence Agreement ("EULA") is a
+Version 1.4 — 10 August 2026. This End-User Licence Agreement ("EULA") is a
 contract between Hablexo Ltd, a company registered in England & Wales (company
 no. 17354416), registered office 167-169 Great Portland Street, 5th Floor,
 London W1W 5PF ("Hablexo", "we", "us"), and the business or organisational
@@ -46,12 +46,11 @@ product, distribution, or service.
 
 2. ACCOUNT REQUIRED TO PUBLISH
 
-Operating a live event requires a signed-in Hablexo account credential
-(managed or, where we have agreed it, bring-your-own-keys). A signed-out
-operator does not publish, and usage attributes to the account that is signed
-in. You are responsible for your account and credentials as set out in the
-Terms, and for the acts of anyone you allow to use the Software under your
-account. Anyone who signs in for an organisation confirms that they are
+Operating a live event requires a signed-in Hablexo account credential. A
+signed-out operator does not publish, and usage attributes to the account that
+is signed in. You are responsible for your account and credentials as set out
+in the Terms, and for the acts of anyone you allow to use the Software under
+your account. Anyone who signs in for an organisation confirms that they are
 authorised by that Customer.
 
 3. WHAT YOU MAY NOT DO
@@ -91,34 +90,23 @@ be required for continued compatibility with the service or for security.
 Unless an update comes with different terms that you accept, this EULA governs
 it too. We are not obliged to maintain support for older versions.
 
-5. BRING-YOUR-OWN-KEYS
-
-Where we have expressly agreed a bring-your-own-keys arrangement, you supply
-your own speech-to-text and translation provider credentials. The Software
-holds those credentials only in your device's operating-system secret store,
-on your device; Hablexo never receives or holds them. You are solely
-responsible for the security, management, and cost of your own provider
-accounts, and for compliance with those providers' terms. In that arrangement
-your providers are your processors or sub-processors, as applicable, not
-Hablexo's sub-processors, as described in the DPA.
-
-6. FILES THE SOFTWARE STORES ON YOUR DEVICE
+5. FILES THE SOFTWARE STORES ON YOUR DEVICE
 
 The Software writes certain files to your own device, not to Hablexo's servers
-— including its configuration, the secret store above, chat history, a
-diagnostics log, unsent problem reports, and, only if you switch them on (both
-are off by default), audio recordings and transcripts. Some of these can
-contain other people's personal data. The Customer is the controller where it
-determines why and how the event is operated, or a processor where it operates
-for a client controller. What is stored, how long it is kept, and how to
-delete it are set out in the Privacy Notice
-(https://translate.hablexo.com/legal/privacy.html) and in section 10 of the
-DPA (https://translate.hablexo.com/legal/dpa.html); this EULA does not change
-those terms. The Customer is responsible for ensuring that the relevant
+— including its configuration, the credentials it keeps in your device's
+operating-system secret store, chat history, a diagnostics log, unsent problem
+reports, and, only if you switch them on (both are off by default), audio
+recordings and transcripts. Some of these can contain other people's personal
+data. The Customer is the controller where it determines why and how the event
+is operated, or a processor where it operates for a client controller. What is
+stored, how long it is kept, and how to delete it are set out in the Privacy
+Notice (https://translate.hablexo.com/legal/privacy.html) and in section 10 of
+the DPA (https://translate.hablexo.com/legal/dpa.html); this EULA does not
+change those terms. The Customer is responsible for ensuring that the relevant
 controller informs attendees, has a lawful basis, and authorises the content
 captured.
 
-7. THIRD-PARTY AND OPEN-SOURCE COMPONENTS
+6. THIRD-PARTY AND OPEN-SOURCE COMPONENTS
 
 The Software includes third-party and open-source components that are licensed
 under their own terms. Those terms govern your use of the components and, to
@@ -128,7 +116,7 @@ open-source licence. A list of these components and their notices is available
 on request at hello@hablexo.com and, where a component requires it, is
 included with the Software.
 
-8. APP STORES
+7. APP STORES
 
 Where you obtain the mobile operator app from a third-party app store (for
 example the Apple App Store or Google Play), your download and use are also
@@ -141,7 +129,7 @@ beneficiaries of this EULA and may enforce it against you. You confirm you are
 not located in a country subject to a relevant embargo and are not on a
 prohibited-parties list.
 
-9. NO WARRANTY
+8. NO WARRANTY
 
 To the fullest extent permitted by law, the Software is provided "as is" and
 "as available", without warranties of any kind, whether express, implied, or
@@ -149,10 +137,12 @@ statutory, including any implied warranties of satisfactory quality, fitness
 for a particular purpose, or non-infringement. Captions and translations are
 produced by machine transcription and machine translation and can be wrong;
 you are responsible for deciding whether the Software is suitable for your
-event and for any human review where accuracy is critical. We do not warrant
-that the Software will be uninterrupted or error-free.
+event and for any human review where accuracy is critical. The ability to use
+a live human translator for a language, through the service, is provided
+expressly for this purpose. We do not warrant that the Software will be
+uninterrupted or error-free.
 
-10. LIABILITY
+9. LIABILITY
 
 Your use of the Software forms part of your use of the service, and Hablexo's
 liability in connection with the Software is subject to the same limitations
@@ -161,16 +151,16 @@ Nothing in this EULA excludes or limits any liability that cannot lawfully be
 excluded or limited, including liability for death or personal injury caused
 by negligence, or for fraud.
 
-11. TERM AND TERMINATION
+10. TERM AND TERMINATION
 
 This licence runs while you have a Hablexo account and comply with this EULA.
 It terminates automatically if you breach it, and it ends when your account is
 closed or the Terms terminate. On termination you must stop using and remove
 all copies of the Software. Personal data is handled as set out in the DPA and
-the Privacy Notice. Sections 1 (ownership), 3, 6, 9, 10, and 12 survive
+the Privacy Notice. Sections 1 (ownership), 3, 5, 8, 9, and 11 survive
 termination.
 
-12. GENERAL
+11. GENERAL
 
 This EULA, together with the Terms and the DPA, is the entire agreement
 between you and Hablexo regarding the Software and supersedes any prior
