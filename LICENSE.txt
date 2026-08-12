@@ -1,11 +1,11 @@
 Hablexo — End-User Licence Agreement
-v1.4-2026-08-10
+v1.5-2026-08-11
 
 Generated from the canonical web copy at
 https://translate.hablexo.com/legal/eula.html — do not edit by hand (run
 web/legal/gen-license.mjs).
 
-Version 1.4 — 10 August 2026. This End-User Licence Agreement ("EULA") is a
+Version 1.5 — 11 August 2026. This End-User Licence Agreement ("EULA") is a
 contract between Hablexo Ltd, a company registered in England & Wales (company
 no. 17354416), registered office 167-169 Great Portland Street, 5th Floor,
 London W1W 5PF ("Hablexo", "we", "us"), and the business or organisational
@@ -57,7 +57,8 @@ authorised by that Customer.
 
 Except to the extent this restriction is prohibited by law (and, where the law
 permits it only on prior request, unless we have first declined a request from
-you), you must not:
+you), or is permitted by the licensing terms governing an open-source
+component included in the Software (see section 6), you must not:
   - copy, modify, or create derivative works of the Software, except to make
     the ordinary back-up and installation copies the licence implies;
   - reverse engineer, decompile, or disassemble the Software, or attempt to
@@ -112,9 +113,14 @@ The Software includes third-party and open-source components that are licensed
 under their own terms. Those terms govern your use of the components and, to
 the extent required by them, prevail over this EULA for the component
 concerned; nothing here restricts any right you have under an applicable
-open-source licence. A list of these components and their notices is available
-on request at hello@hablexo.com and, where a component requires it, is
-included with the Software.
+open-source licence — including, for components licensed under terms such as
+the GNU Lesser General Public License, any right those terms grant to modify
+the component for your own use and to reverse engineer for debugging such
+modifications. A list of these components and their notices is published at
+hablexo.com/legal/licences.html
+(https://translate.hablexo.com/legal/licences.html), is available on request
+at hello@hablexo.com, and, where a component requires it, is included with the
+Software.
 
 7. APP STORES
 
