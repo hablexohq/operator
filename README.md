@@ -1,8 +1,8 @@
 # Hablexo Operator
 
-**Real-time translation for live services and events.** Hablexo listens to the speaker,
-transcribes and translates on the fly, and delivers live captions to each attendee's phone in
-their chosen language — they just scan a QR code. It can also translate projected song lyrics and
+**Real-time translation for live events.** Hablexo listens to the speaker,
+transcribes and translates on the fly, and delivers live captions and speech to each attendee's phone in
+their chosen language — they just scan a QR code. It can also translate projected NDI lyrics and
 show them lower-third style.
 
 This repository is the **download home** for the Hablexo operator app. Grab a build from the
