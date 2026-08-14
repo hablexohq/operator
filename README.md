@@ -14,7 +14,7 @@ This repository is the **download home** for the Hablexo operator app. Grab a bu
 |---|---|---|
 | **Windows** (installer) | `Hablexo-Setup.exe` | Recommended. One-click install to `C:\Program Files\Hablexo`, with Start-menu shortcuts. |
 | **Windows** (portable) | `hablexo-operator-windows.zip` | Unzip anywhere and run `hablexo-operator.exe` inside the folder. |
-| **macOS** | `hablexo-operator-macos.zip` | Unzip to get `hablexo-operator.app`, then launch. |
+| **macOS** | `hablexo-operator-macos.dmg` | Open the disk image and drag **Hablexo Operator** into Applications. |
 | **Linux** (x86-64) | `hablexo-operator-linux-x86_64.tar.gz` | Extract and run `./hablexo-operator/hablexo-operator`. |
 
 ### Install on Windows
@@ -23,12 +23,14 @@ This repository is the **download home** for the Hablexo operator app. Grab a bu
 3. Open **Hablexo Settings** from the Start menu to configure it, then launch **Hablexo**.
 
 ### Install on macOS
-1. Download and unzip **`hablexo-operator-macos.zip`**.
-2. macOS quarantines downloaded apps. Clear it once from Terminal:
-   ```bash
-   xattr -dr com.apple.quarantine hablexo-operator.app
-   ```
-3. Open the app and allow microphone access when prompted.
+1. Download and open **`hablexo-operator-macos.dmg`**.
+2. Drag **Hablexo Operator** onto the **Applications** shortcut in the same window.
+3. Launch it from Applications. The first time, macOS asks you to confirm an app downloaded from
+   the internet — click **Open**.
+4. Allow microphone access when prompted.
+
+The macOS app is signed with our Apple Developer ID and notarized by Apple, so it opens without a
+Gatekeeper warning. You do **not** need to clear the quarantine attribute by hand.
 
 ### Install on Linux (x86-64)
 1. Download and extract **`hablexo-operator-linux-x86_64.tar.gz`**:
