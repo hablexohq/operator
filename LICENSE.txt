@@ -1,11 +1,11 @@
 Hablexo — End-User Licence Agreement
-v1.6-2026-08-22
+v1.8-2026-08-28
 
 Generated from the canonical web copy at
 https://translate.hablexo.com/legal/eula.html — do not edit by hand (run
 web/legal/gen-license.mjs).
 
-Version 1.6 — 22 August 2026. This End-User Licence Agreement ("EULA") is a
+Version 1.8 — 28 August 2026. This End-User Licence Agreement ("EULA") is a
 contract between Hablexo Ltd, a company registered in England & Wales (company
 no. 17354416), registered office 167-169 Great Portland Street, 5th Floor,
 London W1W 5PF ("Hablexo", "we", "us"), and the business or organisational
@@ -116,8 +116,11 @@ concerned; nothing here restricts any right you have under an applicable
 open-source licence — including, for components licensed under terms such as
 the GNU Lesser General Public License, any right those terms grant to modify
 the component for your own use and to reverse engineer for debugging such
-modifications. A list of these components and their notices is published at
-hablexo.com/legal/licences.html
+modifications, and, for components licensed under the GNU General Public
+License, any right those terms grant to obtain the component's source code and
+to use, modify, copy and redistribute that component under those terms.
+Section 3's restrictions do not apply to any of those acts. A list of these
+components and their notices is published at hablexo.com/legal/licences.html
 (https://translate.hablexo.com/legal/licences.html), is available on request
 at hello@hablexo.com, and, where a component requires it, is included with the
 Software.
