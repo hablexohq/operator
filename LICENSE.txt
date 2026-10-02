@@ -1,11 +1,11 @@
 Hablexo — End-User Licence Agreement
-v1.8-2026-08-28
+v1.11-2026-10-02
 
 The canonical version of this agreement is published at
 https://translate.hablexo.com/legal/eula.html. Where this copy and the
 published version differ, the published version governs.
 
-Version 1.8 — 28 August 2026. This End-User Licence Agreement ("EULA") is a
+Version 1.11 — 2 October 2026. This End-User Licence Agreement ("EULA") is a
 contract between Hablexo Ltd, a company registered in England & Wales (company
 no. 17354416), registered office 167-169 Great Portland Street, 5th Floor,
 London W1W 5PF ("Hablexo", "we", "us"), and the business or organisational
