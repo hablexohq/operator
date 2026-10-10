@@ -1,34 +1,32 @@
 Hablexo — End-User Licence Agreement
-v1.11-2026-10-02
+v1.14-2026-10-06
 
 The canonical version of this agreement is published at
 https://translate.hablexo.com/legal/eula.html. Where this copy and the
 published version differ, the published version governs.
 
-Version 1.11 — 2 October 2026. This End-User Licence Agreement ("EULA") is a
+Version 1.14 — 6 October 2026. This End-User Licence Agreement ("EULA") is a
 contract between Hablexo Ltd, a company registered in England & Wales (company
 no. 17354416), registered office 167-169 Great Portland Street, 5th Floor,
 London W1W 5PF ("Hablexo", "we", "us"), and the business or organisational
 Customer identified under the Terms ("Customer", "you"). An individual who
 installs or uses the Software for the Customer does so as its authorised user
 and does not become the Customer merely by using the Software. Contact:
-hello@hablexo.com.
+hello@hablexo.com, telephone +44 20 8191 4194.
 
-This EULA governs the operator applications — the Hablexo desktop operator app
-(Windows, macOS, and Linux) and the Hablexo mobile operator app (iOS and
-Android), together with their updates, documentation, and any bundled
-components (the "Software"). The Software is the tool you use to run an event;
-the translation service it connects to is governed by the Terms of Service
-(https://translate.hablexo.com/legal/terms.html) (the "Terms"), and all
-processing of event content and personal data is governed by the Data
-Processing Addendum (https://translate.hablexo.com/legal/dpa.html) (the
-"DPA"). By installing or using the Software you accept this EULA. If these
-terms and the Terms conflict in relation to the service, the Terms prevail;
-the DPA prevails on data-protection matters. The Software is licensed only
-under an eligible business or organisational account. It must not be installed
-or used wholly or mainly for personal, family, or household purposes. The
-Customer eligibility and authority requirements in the Terms apply to this
-EULA.
+The "Software" means Hablexo's desktop and mobile operator apps, with their
+updates, documentation, and bundled components. Installing or using it accepts
+this EULA. A licence requires an eligible business or organisational account
+under the Terms of Service (https://translate.hablexo.com/legal/terms.html)
+(the "Terms"), whose eligibility and authority requirements apply;
+installation or use wholly or mainly for personal, family, or household
+purposes is prohibited. The Terms govern the service and prevail over this
+EULA on service matters. The Data Processing Addendum
+(https://translate.hablexo.com/legal/dpa.html) (the "DPA") governs Hablexo's
+processing of event content on your behalf and prevails on data protection;
+the Privacy Notice (https://translate.hablexo.com/legal/privacy.html) covers
+the personal data Hablexo handles for its own purposes, such as account and
+billing data.
 
 1. LICENCE
 
@@ -47,7 +45,7 @@ product, distribution, or service.
 2. ACCOUNT REQUIRED TO PUBLISH
 
 Operating a live event requires a signed-in Hablexo account credential. A
-signed-out operator does not publish, and usage attributes to the account that
+signed-out operator does not publish. Usage is attributed to the account that
 is signed in. You are responsible for your account and credentials as set out
 in the Terms, and for the acts of anyone you allow to use the Software under
 your account. Anyone who signs in for an organisation confirms that they are
@@ -55,20 +53,20 @@ authorised by that Customer.
 
 3. WHAT YOU MAY NOT DO
 
-Except to the extent this restriction is prohibited by law (and, where the law
-permits it only on prior request, unless we have first declined a request from
-you), or is permitted by the licensing terms governing an open-source
-component included in the Software (see section 6), you must not:
+The restrictions below do not apply where applicable law gives you a right we
+cannot take away, or where the licence of an included open-source component
+permits the act (see section 6). Where the law gives you that right only if
+you have first asked the rights-holder, you must have asked us and we must
+have declined. Otherwise, you must not:
   - copy, modify, or create derivative works of the Software, except to make
     the ordinary back-up and installation copies the licence implies;
   - reverse engineer, decompile, or disassemble the Software, or attempt to
-    derive its source code, save to the limited extent applicable law (for
-    example the permitted interoperability exception under the Copyright,
-    Designs and Patents Act 1988) allows and cannot be excluded by agreement;
+    derive its source code;
   - distribute, resell, sublicense, rent, lease, lend, or make the Software
     available to any third party, or use it to provide a service bureau or
-    timesharing service — an Own-branding subscription changes visual identity
-    but grants no reseller or redistribution rights;
+    timesharing service — showing your own branding on an event changes its
+    visual identity and grants no reseller or redistribution rights, and
+    running events for your own clients as the Terms permit is allowed;
   - remove, obscure, or alter any proprietary notices, marks, or attributions
     in the Software;
   - circumvent, disable, or interfere with any licensing, metering,
@@ -85,58 +83,57 @@ component included in the Software (see section 6), you must not:
 
 4. UPDATES
 
-We may release updates, upgrades, and patches to the Software. The Software
-may check for updates and tell you when one is available, and some updates may
-be required for continued compatibility with the service or for security.
-Unless an update comes with different terms that you accept, this EULA governs
-it too. We are not obliged to maintain support for older versions.
+We may release updates and notify you through the Software. Some are required
+for compatibility or security. Updates and optional components are delivered
+by third-party hosting services, which receive your IP address. This EULA
+governs updates unless an update comes with different terms and you accept
+them. We need not support older versions.
 
 5. FILES THE SOFTWARE STORES ON YOUR DEVICE
 
-The Software writes certain files to your own device, not to Hablexo's servers
-— including its configuration, the credentials it keeps in your device's
-operating-system secret store, chat history, a diagnostics log, unsent problem
-reports, and, only if you switch them on (both are off by default), audio
-recordings and transcripts. Some of these can contain other people's personal
-data. The Customer is the controller where it determines why and how the event
-is operated, or a processor where it operates for a client controller. What is
-stored, how long it is kept, and how to delete it are set out in the Privacy
-Notice (https://translate.hablexo.com/legal/privacy.html) and in section 10 of
-the DPA (https://translate.hablexo.com/legal/dpa.html); this EULA does not
-change those terms. The Customer is responsible for ensuring that the relevant
-controller informs attendees, has a lawful basis, and authorises the content
-captured.
+The Software stores configuration, credentials (in the operating system's
+secret store where one is available), chat history, diagnostic logs, and
+unsent problem reports on your device, not on Hablexo's servers. Audio
+recordings and transcripts are off by default. Some of these files contain
+other people's personal data. Section 10 of the DPA
+(https://translate.hablexo.com/legal/dpa.html) sets out the Customer's role as
+controller or processor and its duties for chat history, recordings, and
+transcripts; the Privacy Notice
+(https://translate.hablexo.com/legal/privacy.html) explains how they are
+handled.
 
 6. THIRD-PARTY AND OPEN-SOURCE COMPONENTS
 
-The Software includes third-party and open-source components that are licensed
-under their own terms. Those terms govern your use of the components and, to
-the extent required by them, prevail over this EULA for the component
-concerned; nothing here restricts any right you have under an applicable
-open-source licence — including, for components licensed under terms such as
-the GNU Lesser General Public License, any right those terms grant to modify
-the component for your own use and to reverse engineer for debugging such
-modifications, and, for components licensed under the GNU General Public
-License, any right those terms grant to obtain the component's source code and
-to use, modify, copy and redistribute that component under those terms.
-Section 3's restrictions do not apply to any of those acts. A list of these
-components and their notices is published at hablexo.com/legal/licences.html
-(https://translate.hablexo.com/legal/licences.html), is available on request
-at hello@hablexo.com, and, where a component requires it, is included with the
-Software.
+The Software includes third-party and open-source components licensed under
+their own terms, which govern those components and prevail over this EULA
+where they require. Nothing in this EULA, including section 3, restricts a
+right that such a licence grants for the component concerned, including rights
+to modify, reverse engineer, obtain source code, use, copy, or redistribute
+it. The list of components and their notices is published at
+console.hablexo.com/legal/licences.html
+(https://translate.hablexo.com/legal/licences.html), available on request from
+hello@hablexo.com, and included with the Software where a licence requires it.
 
 7. APP STORES
 
 Where you obtain the mobile operator app from a third-party app store (for
 example the Apple App Store or Google Play), your download and use are also
 subject to that store's terms, and this EULA applies only to the extent it is
-consistent with them. For the Apple App Store: this EULA is between you and
-Hablexo only, not Apple; Apple has no obligation to furnish support or
-maintenance for the app; Apple is not responsible for any product warranties
-or claims relating to the app; and Apple and its subsidiaries are third-party
-beneficiaries of this EULA and may enforce it against you. You confirm you are
-not located in a country subject to a relevant embargo and are not on a
-prohibited-parties list.
+consistent with them. For the Apple App Store:
+  - this EULA is between you and Hablexo only, not Apple;
+  - Apple has no obligation to furnish support or maintenance for the app;
+  - Hablexo, not Apple, is responsible for the app's warranties and for any
+    claim relating to it, including a claim that it infringes a third party's
+    intellectual property;
+  - if the app fails to conform to an applicable warranty you may notify
+    Apple, which will refund any purchase price paid, and Apple has no other
+    warranty obligation;
+  - Apple and its subsidiaries are third-party beneficiaries of this EULA and
+    may enforce it against you;
+  - you confirm you are not located in a country subject to a relevant embargo
+    and are not on a prohibited-parties list.
+
+Google Play's own terms apply to the Android app.
 
 8. NO WARRANTY
 
@@ -171,17 +168,11 @@ termination.
 
 11. GENERAL
 
-This EULA, together with the Terms and the DPA, is the entire agreement
-between you and Hablexo regarding the Software and supersedes any prior
-understanding. We may update this EULA; material changes take effect on
-reasonable notice (for example by email, in the control panel, or with an
-update), and continued use after the effective date is acceptance. Each
-version is dated and numbered. You may not assign this EULA without our
-consent; we may assign it to a successor of the business. If any provision is
-unenforceable, the rest remain in force. This EULA is governed by the laws of
-England and Wales, and the parties submit to the exclusive jurisdiction of the
-courts of England and Wales, without prejudice to any mandatory rights in your
-country of establishment.
+The entire-agreement, assignment, severability, governing-law, and
+jurisdiction provisions of section 13 of the Terms apply to the Software and
+this EULA. We may update this EULA; material changes take effect on reasonable
+notice, by email, in the Software, or with an update, and continued use after
+the effective date is acceptance. Each version is dated and numbered.
 
 Hablexo Ltd · Registered in England & Wales · Company No. 17354416 ·
 Registered office: 167-169 Great Portland Street, 5th Floor, London W1W 5PF ·
